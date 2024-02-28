@@ -3,3 +3,7 @@
 ```javascript
 var hiThere = "Hello, world!";
 ```
+
+- [ ] Think of what to put in bio
+- [ ] Research template repository function
+- [ ] Create ConfigCopier tutorial in wiki
